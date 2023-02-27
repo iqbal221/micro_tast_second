@@ -2,15 +2,11 @@ import React from "react";
 
 const ClientReview = () => {
   return (
-    <div className="carousel w-full h-96 mb-16">
+    <div className="carousel w-full  mb-16  ">
       <div
         id="slide1"
-        className="carousel-item relative w-full grid place-items-center"
+        className="carousel-item relative w-full h-96 grid place-items-center bg-green-500"
       >
-        <img
-          src="https://wallpaperaccess.com/full/3801072.jpg"
-          className="w-full "
-        />
         <div className="absolute w-[800px] text-center text-white">
           <p className="font-semibold text-lg mb-6 ">
             The counselors and staff are simply amazing. They are fun and full
@@ -32,12 +28,8 @@ const ClientReview = () => {
       </div>
       <div
         id="slide2"
-        className="carousel-item relative w-full grid place-items-center"
+        className="carousel-item relative w-full h-96  grid place-items-center bg-green-500"
       >
-        <img
-          src="https://wallpaperaccess.com/full/3801072.jpg"
-          className="w-full"
-        />
         <div className="absolute w-[800px] text-center text-white">
           <p className="font-semibold text-lg mb-6 ">
             The staff is excellent and pour God's word into the kids in a "fun"
@@ -59,12 +51,8 @@ const ClientReview = () => {
       </div>
       <div
         id="slide3"
-        className="carousel-item relative w-full grid place-items-center"
+        className="carousel-item relative w-full h-96 grid place-items-center bg-green-500"
       >
-        <img
-          src="https://wallpaperaccess.com/full/3801072.jpg"
-          className="w-full"
-        />
         <div className="absolute w-[800px] text-center text-white">
           <p className="font-semibold text-lg mb-6 ">
             Sixteen years after being a counselor for Camp Highland, God
@@ -85,12 +73,8 @@ const ClientReview = () => {
       </div>
       <div
         id="slide4"
-        className="carousel-item relative w-full grid place-items-center"
+        className="carousel-item relative w-full h-96 grid place-items-center bg-green-500"
       >
-        <img
-          src="https://wallpaperaccess.com/full/3801072.jpg"
-          className="w-full"
-        />
         <div className="absolute w-[800px] text-center text-white">
           <p className="font-semibold text-lg mb-6 ">
             This camp is amazing. My child has attended 2 years in a row and he
