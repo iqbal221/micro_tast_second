@@ -1,4 +1,47 @@
-.imageOne:hover{
-    z-index:3;
-    background-color:red;
+/* .imageOne{
+    background-image: url(../../assets/summer.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height:auto; 
 }
+
+.imageOne:hover{
+    background-image:linear-gradient(to bottom, rgba(235, 89, 89, 0.6), rgba(235, 89, 89, 0.6)), url(../../assets/summer.jpg);
+} */
+
+/* .imageTwo{
+    background-image: url(../../assets/family.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height:auto; 
+}
+
+.imageTwo:hover{
+    background-image:linear-gradient(to bottom, rgba(235, 89, 89, 0.6), rgba(235, 89, 89, 0.6)), url(../../assets/family.jpg);
+} */
+
+/* .imageThree{
+    background-image: url(../../assets/group.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height:auto; 
+}
+
+.imageThree:hover{
+    background-image:linear-gradient(to bottom, rgba(235, 89, 89, 0.6), rgba(235, 89, 89, 0.6)), url(../../assets/group.jpg);
+} */
+
+/* .imageFour{
+    background-image: url(../../assets/group.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height:auto; 
+}
+
+.image:hover{
+    background-image:linear-gradient(to bottom, rgba(235, 89, 89, 0.6), rgba(235, 89, 89, 0.6)), url(../../assets/group.jpg);
+} */

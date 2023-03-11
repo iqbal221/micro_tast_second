@@ -21,7 +21,7 @@ const Address = () => {
         <FaLinkedinIn className="border-2 border-zinc-700 text-zinc-600 bg-transparent hover:bg-orange-500 hover:text-white hover:border-orange-500 transition duration-300 h-8 w-8 p-1 rounded-sm font-semibold cursor-pointer" />
       </div>
       <div>
-        <button className="border-2 border-zinc-700 bg-transparent hover:bg-orange-500 hover:text-white hover:border-orange-500 transition duration-300 uppercase rounded-3xl px-8 py-2 mr-4 text-sm font-semibold tracking-widest">
+        <button className="lg:mb-0 mb-6 border-2 border-zinc-700 bg-transparent hover:bg-orange-500 hover:text-white hover:border-orange-500 transition duration-300 uppercase rounded-3xl px-8 py-2 mr-4 text-sm font-semibold tracking-widest">
           Newsletter
         </button>
         <button className="border-2 border-zinc-700 bg-transparent hover:bg-orange-500 hover:text-white hover:border-orange-500 transition duration-300 uppercase rounded-3xl px-8 py-2 mr-4 text-sm font-semibold tracking-widest">

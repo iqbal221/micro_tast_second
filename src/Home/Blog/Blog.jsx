@@ -2,8 +2,8 @@ import React from "react";
 
 const Blog = () => {
   return (
-    <div className="flex  px-24 py-14">
-      <div className="w-1/3 flex justify-center">
+    <div className="lg:flex flex-row  lg:px-24 px-10 lg:py-14 py-6">
+      <div className="lg:w-1/3 w-full flex justify-center">
         <div className="mx-auto">
           <img
             className="flex justify-center"
@@ -13,18 +13,18 @@ const Blog = () => {
           <p className="font-semibold w-80 mt-4">
             7th-12th graders can experience Overnight Camp at Winter Camp!!
           </p>
-          <button className="mt-5  px-6 py-2 text-sm border border-orange-500 hover:border hover:border-zinc-600 hover:bg-transparent font-bold tracking-wide text-white hover:text-zinc-600 uppercase transition-colors duration-300 transform  bg-orange-500  hover:btn-outline rounded-3xl">
+          <button className="mt-5 lg:mb-0 mb-8 px-6 py-2 text-sm border border-orange-500 hover:border hover:border-zinc-600 hover:bg-transparent font-bold tracking-wide text-white hover:text-zinc-600 uppercase transition-colors duration-300 transform  bg-orange-500  hover:btn-outline rounded-3xl">
             Learn More
           </button>
         </div>
       </div>
-      <div className="w-2/3">
+      <div className="lg:w-2/3 w-full">
         <h3 className="font-bold text-xl border-b-2 border-orange-500">
           Recent Blog Posts
         </h3>
 
-        <div className="flex mt-3">
-          <div className="w-1/2">
+        <div className="lg:flex flex-row mt-3">
+          <div className="lg:w-1/2 w-full lg:mb-0 mb-10">
             <img
               className="w-80 h-52"
               src="https://camphighland.com/wp-content/uploads/2021/12/2022-jpg.jpg"
@@ -41,7 +41,7 @@ const Blog = () => {
             </p>
           </div>
 
-          <div className="w-1/2">
+          <div className="lg:w-1/2 w-full lg:mb-0 mb-10">
             <img
               className="w-80 h-52"
               src="https://camphighland.com/wp-content/uploads/2021/11/November-2021-Newsletter.jpg"
